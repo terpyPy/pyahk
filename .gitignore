@@ -1,0 +1,6 @@
+
+*.exe
+pyAhk(release)/py ahk_v1.3/Ahk_presets.csv
+pyAhk(release)/py ahk_v1.4/Ahk_presets.csv
+pyAhk(release)/py ahk_v1.4/README.txt
+pyAhk(release)/py_ahk_debug_build(v1.0)/Ahk_presets.csv
