@@ -42,10 +42,12 @@ def look_up(event):
 
 
 def write_in_window(text):
-    gameRegion = getWindowsWithTitle('Simplicity+')[0]
-    pg.click(gameRegion.left+50, gameRegion.top+10)
+    #atl + tab to the game window
+    pg.hotkey('alt', 'tab')
+    # pg.click(gameRegion.left+50, gameRegion.top+10)
     pg.typewrite(text)
     pg.press('enter')
+    pg.hotkey('alt', 'tab')
 
 
 def buttons_from_array(array):
