@@ -1,6 +1,5 @@
-import pyautogui as pg
-from pygetwindow import getWindowsWithTitle
 import pandas as pd
+import pyautogui as pg
 import PySimpleGUI as sg
 
 
