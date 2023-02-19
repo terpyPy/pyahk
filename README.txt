@@ -2,7 +2,7 @@ Author: Cameron Kerley
 a single file exe for my ahk program that includes a csv file(spread sheet) in which you can change the text for presets & add new ones without needing to code.
 The 2 files attached MUST be located in the same folder. YOU MUST NOT CHANGE FILE NAMES!!
 windows only.
-client named simplicity+ so it knows what process to target
+types in last active window.
 
 extract to a folder and launch exe only us macros while simp clients open.
 
